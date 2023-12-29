@@ -1,0 +1,15 @@
+{
+    "name": "novembit/app-tailor-api",
+    "description": "App Tailor API",
+    "authors": [
+        {
+            "name": "Novembit",
+            "email": "info@novembit.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {"AT_API\\": "src/"}
+    }
+}
